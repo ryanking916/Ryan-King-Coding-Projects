@@ -7,3 +7,7 @@
 
 ## Featured Projects
 * CBB Models
+* IMDb Analysis
+* NBA Analysis
+* Super Mario Simulation
+* University Database
