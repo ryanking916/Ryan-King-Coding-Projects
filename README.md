@@ -1,4 +1,4 @@
-# Ryan King Coding Projects 
+# Coding Projects 
 
 ## Identifying Information
 * Name: Ryan King
