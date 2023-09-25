@@ -6,8 +6,4 @@
 * Known Programming Languages: Python, R, SQL, C++, Java, C#, C
 
 ## Featured Projects
-* IMDb Score Analysis
-* NBA Analysis
 * CBB Models
-* University Database
-* Super Mario Simulation
