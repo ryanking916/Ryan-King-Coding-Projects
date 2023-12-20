@@ -7,6 +7,7 @@
 
 ## Featured Projects
 * CBB Models
+* Dog Classification
 * IMDb Analysis
 * NBA Analysis
 * Super Mario Simulation
